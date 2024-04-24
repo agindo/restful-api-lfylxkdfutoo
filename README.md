@@ -1,4 +1,4 @@
-# First Restfull API with NodeJS ExpressJs
+# First Restful API with NodeJS ExpressJs
 
 install dependencies:
 ```
